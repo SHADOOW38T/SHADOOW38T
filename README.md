@@ -8,7 +8,7 @@
 > *"In a world of threats, defenders are the last line."*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SHADOWOW38T)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SHADOOW38T)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 </div>
@@ -72,11 +72,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHADOWOW38T&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SHADOOW38T&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOWOW38T&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SHADOOW38T&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SHADOWOW38T&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=SHADOOW38T&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -98,15 +98,15 @@
 
 ### 🔬 SOC Lab Notes
 > Personal notes and writeups from TryHackMe SOC Level 1 path, covering SIEM usage, alert analysis, and threat detection exercises.
-> 📁 [View Repository](https://github.com/SHADOWOW38T/soc-lab-notes)
+> 📁 [View Repository](https://github.com/SHADOOW38T/soc-lab-notes)
 
 ### 🌐 Network Analysis Practice
 > Packet capture analysis exercises using Wireshark — identifying suspicious traffic patterns and common attack signatures.
-> 📁 [View Repository](https://github.com/SHADOWOW38T/network-analysis-practice)
+> 📁 [View Repository](https://github.com/SHADOOW38T/network-analysis-practice)
 
 ### 📊 Log Analysis Scripts
 > Small Python/Bash scripts for parsing and filtering security logs — built while practicing log analysis fundamentals.
-> 📁 [View Repository](https://github.com/SHADOWOW38T/log-analysis-scripts)
+> 📁 [View Repository](https://github.com/SHADOOW38T/log-analysis-scripts)
 
 ---
 
@@ -124,7 +124,7 @@ I'm actively looking for internship opportunities and would love to connect with
 
 📧 **Email:** YOUR_EMAIL@gmail.com
 💼 **LinkedIn:** linkedin.com/in/YOUR_PROFILE
-🔵 **TryHackMe:** tryhackme.com/p/SHADOWOW38T
+🔵 **TryHackMe:** tryhackme.com/p/SHADOOW38T
 
 ---
 
@@ -132,6 +132,6 @@ I'm actively looking for internship opportunities and would love to connect with
 
 *"The goal of a SOC analyst is not to be everywhere — it's to see everything."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=SHADOWOW38T&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=SHADOOW38T&color=blue&style=flat-square)
 
 </div>
