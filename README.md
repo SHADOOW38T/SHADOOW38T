@@ -130,7 +130,6 @@
 I'm actively looking for SOC Analyst opportunities and would love to connect with cybersecurity professionals.
 
 📧 **Email:** m7mdmaarouf1@gmail.com
-📱 **Phone:** +966 54 003 8318
 💼 **LinkedIn:** [linkedin.com/in/mohammad-maarouf-0aa527201](https://www.linkedin.com/in/mohammad-maarouf-0aa527201)
 🔵 **TryHackMe:** [tryhackme.com/p/HUNTERMAN](https://tryhackme.com/p/HUNTERMAN)
 
