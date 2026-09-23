@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Mohammed%20Maarouf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20%7C%20SOC%20Analyst%20L1%20%7C%20Detection%20%26%20Response&descSize=16&descAlignY=58" width="100%"/>
 
-
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Alert+triage+%7C+Log+analysis+%7C+Incident+response;Attack+it.+Detect+it.+Investigate+it.;eJPT+%E2%80%A2+eCDFP+%E2%80%A2+eCIR;Open+to+SOC+L1+roles+in+Saudi+Arabia+%26+remote" alt="Typing SVG" />
 </a>
@@ -53,28 +51,13 @@ SOC Analyst L1 candidate | Blue Team
 ![eCIR](https://img.shields.io/badge/eCIR-Certified%20Incident%20Responder-58a6ff?style=for-the-badge)
 ![eCDFP](https://img.shields.io/badge/eCDFP-Certified%20Digital%20Forensics%20Professional-1a3a5c?style=for-the-badge)
 
+<br/><br/>
 
+<a href="https://github.com/user-attachments/assets/19f0382f-d3a2-4e62-9d90-eb222ebcd6c8"><img src="https://github.com/user-attachments/assets/19f0382f-d3a2-4e62-9d90-eb222ebcd6c8" alt="eJPT certificate" width="31%"/></a>
+<a href="https://github.com/user-attachments/assets/b9103a2a-6a7c-4426-b163-3b67e159d251"><img src="https://github.com/user-attachments/assets/b9103a2a-6a7c-4426-b163-3b67e159d251" alt="eCIR certificate" width="31%"/></a>
+<a href="https://github.com/user-attachments/assets/efa30d38-acb9-4a49-9be2-1ba449864a96"><img src="https://github.com/user-attachments/assets/efa30d38-acb9-4a49-9be2-1ba449864a96" alt="eCDFP certificate" width="31%"/></a>
 
 <sub>eJPT · Jan 2026 &nbsp;|&nbsp; eCIR · May 2026 &nbsp;|&nbsp; eCDFP · Sep 2026 &nbsp;•&nbsp; Issued by INE Security</sub>
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="assets/cert-ejpt.png"><img src="assets/cert-ejpt.png" alt="eJPT certificate" width="100%"/></a><br/>
-<b>eJPT</b><br/><sub>Junior Penetration Tester · Jan 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="assets/cert-ecir.png"><img src="assets/cert-ecir.png" alt="eCIR certificate" width="100%"/></a><br/>
-<b>eCIR</b><br/><sub>Certified Incident Responder · May 2026</sub>
-</td>
-<td align="center" width="33%">
-<a href="assets/cert-ecdfp.png"><img src="assets/cert-ecdfp.png" alt="eCDFP certificate" width="100%"/></a><br/>
-<b>eCDFP</b><br/><sub>Certified Digital Forensics Professional · Sep 2026</sub>
-</td>
-</tr>
-</table>
-
-*Issued by INE Security*
 
 </div>
 
@@ -135,31 +118,31 @@ A web-based threat detection tool that scans **URLs, IP addresses, domains, and 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="assets/mlc-login.png" alt="Login and sign-up page" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/a1cb4109-48e8-40c2-8295-70d46554b6b7" alt="Login and sign-up page" width="100%"/><br/>
 <sub><b>Authentication:</b> Google, X, or email</sub>
 </td>
 <td align="center" width="50%">
-<img src="assets/mlc-typosquatting.png" alt="Typosquatting detection result" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/d0de8bb2-766b-4525-bcb0-6d23448cfad3" alt="Typosquatting detection result" width="100%"/><br/>
 <sub><b>Typosquatting detected:</b> <code>rnicrosoft.com</code> scored 95/100</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="assets/mlc-malware-test-url.png" alt="Malware test URL result" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/ed2c74cc-5ecf-4766-9cf7-311e5949ff3a" alt="Malware test URL result" width="100%"/><br/>
 <sub><b>Malware test URL:</b> Google Safe Browsing test page flagged high risk</sub>
 </td>
 <td align="center" width="50%">
-<img src="assets/mlc-high-risk-domain.png" alt="High-risk domain result" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/0e7ab5db-407f-4f08-bb61-2a77a03bb682" alt="High-risk domain result" width="100%"/><br/>
 <sub><b>High-risk domain:</b> matched against a research list</sub>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="assets/mlc-scan-history.png" alt="Scan history table" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/6d953de1-1db3-488c-b6d9-c5f92baa745b" alt="Scan history table" width="100%"/><br/>
 <sub><b>Scan history:</b> classification, threat type, result, timestamps</sub>
 </td>
 <td align="center" width="50%">
-<img src="assets/mlc-invalid-input.png" alt="Invalid input handling" width="100%"/><br/>
+<img src="https://github.com/user-attachments/assets/cf120e43-682c-48b9-a68b-e99abea73519" alt="Invalid input handling" width="100%"/><br/>
 <sub><b>Input validation:</b> invalid input returns "Not Found"</sub>
 </td>
 </tr>
