@@ -53,11 +53,7 @@ SOC Analyst L1 candidate | Blue Team
 ![eCIR](https://img.shields.io/badge/eCIR-Certified%20Incident%20Responder-58a6ff?style=for-the-badge)
 ![eCDFP](https://img.shields.io/badge/eCDFP-Certified%20Digital%20Forensics%20Professional-1a3a5c?style=for-the-badge)
 
-<br/><br/>
 
-<a href="assets/cert-ejpt.png"><img src="assets/cert-ejpt.png" alt="eJPT certificate" width="31%"/></a>
-<a href="assets/cert-ecir.png"><img src="assets/cert-ecir.png" alt="eCIR certificate" width="31%"/></a>
-<a href="assets/cert-ecdfp.png"><img src="assets/cert-ecdfp.png" alt="eCDFP certificate" width="31%"/></a>
 
 <sub>eJPT · Jan 2026 &nbsp;|&nbsp; eCIR · May 2026 &nbsp;|&nbsp; eCDFP · Sep 2026 &nbsp;•&nbsp; Issued by INE Security</sub>
 
