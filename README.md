@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Mohammed%20Maarouf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20%7C%20SOC%20Analyst%20L1%20%7C%20Detection%20and%20Response&descSize=16&descAlignY=58" width="100%"/>
+<img src="header-matrix.gif" alt="Mohammed Maarouf, SOC Analyst L1" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Alert+triage+%7C+Log+analysis+%7C+Incident+response;Attack+it.+Detect+it.+Investigate+it.;eJPT+%E2%80%A2+eCDFP+%E2%80%A2+eCIR;Open+to+SOC+L1+roles+in+%26+remote" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Alert+triage+%7C+Log+analysis+%7C+Incident+response;Attack+it.+Detect+it.+Investigate+it.;eJPT+%E2%80%A2+eCDFP+%E2%80%A2+eCIR;Open+to+SOC+L1+roles+%E2%80%A2+remote+friendly" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -229,6 +229,6 @@ I'm actively looking for a **SOC Analyst L1** position where I can apply alert t
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-maarouf-0aa527201)
 [![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m7mdmaarouf1@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=100&section=footer" width="100%"/>
+<img src="footer-matrix.gif" alt="" width="100%"/>
 
 </div>
