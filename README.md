@@ -69,7 +69,7 @@ A three-VM lab built to practice the full loop: **attack → log → alert → i
 
 ```mermaid
 flowchart LR
-    A["🐉 Kali Linux<br/>(Attacker)"] -- "RDP brute-force" --> B["🪟 Windows 11<br/>+ Wazuh Agent"]
+    A["🐉 Kali Linux<br/>(Hacker)"] -- "Attack technique" --> B["🪟 Windows 11<br/>+ Wazuh Agent"]
     B -- "Security events" --> C["🐧 Wazuh Server<br/>(Linux)"]
     C --> D["🚨 Alerts"]
     D --> E["🔍 Investigation<br/>Event Logs · Threat Intel · MITRE ATT&CK"]
@@ -79,7 +79,7 @@ flowchart LR
 |---|---|
 | 🏗️ **Build** | Deployed Kali Linux, Windows 11, and a Wazuh server on Linux |
 | 🔌 **Connect** | Installed and configured the Wazuh agent on Windows and linked it to the server |
-| ⚔️ **Attack** | Simulated RDP brute-force attempts from Kali against Windows |
+| ⚔️ **Attack** | Simulated an attack technique from Kali against Windows |
 | 🚨 **Detect** | Collected and analyzed the resulting security events and alerts in Wazuh |
 | 🔍 **Investigate** | Traced activity using Windows Event Logs, threat intelligence, and MITRE ATT&CK |
 
