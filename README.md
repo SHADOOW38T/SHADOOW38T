@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:58a6ff&height=200&section=header&text=Mohammed%20Maarouf&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Blue%20Team%20%7C%20SOC%20Analyst%20L1%20%7C%20Detection%20%26%20Response&descSize=16&descAlignY=58" width="100%"/>
 
+
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Alert+triage+%7C+Log+analysis+%7C+Incident+response;Attack+it.+Detect+it.+Investigate+it.;eJPT+%E2%80%A2+eCDFP+%E2%80%A2+eCIR;Open+to+SOC+L1+roles+in+Saudi+Arabia+%26+remote" alt="Typing SVG" />
 </a>
@@ -50,6 +52,14 @@ SOC Analyst L1 candidate | Blue Team
 ![eJPT](https://img.shields.io/badge/eJPT-Junior%20Penetration%20Tester-e63946?style=for-the-badge)
 ![eCIR](https://img.shields.io/badge/eCIR-Certified%20Incident%20Responder-58a6ff?style=for-the-badge)
 ![eCDFP](https://img.shields.io/badge/eCDFP-Certified%20Digital%20Forensics%20Professional-1a3a5c?style=for-the-badge)
+
+<br/><br/>
+
+<a href="assets/cert-ejpt.png"><img src="assets/cert-ejpt.png" alt="eJPT certificate" width="31%"/></a>
+<a href="assets/cert-ecir.png"><img src="assets/cert-ecir.png" alt="eCIR certificate" width="31%"/></a>
+<a href="assets/cert-ecdfp.png"><img src="assets/cert-ecdfp.png" alt="eCDFP certificate" width="31%"/></a>
+
+<sub>eJPT · Jan 2026 &nbsp;|&nbsp; eCIR · May 2026 &nbsp;|&nbsp; eCDFP · Sep 2026 &nbsp;•&nbsp; Issued by INE Security</sub>
 
 <table>
 <tr>
